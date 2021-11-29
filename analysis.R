@@ -4,4 +4,4 @@ plot(x, y)
 
 
 # library(lintr)## it allows to visualize the errors in the code window
-summary(x)
+
