@@ -7,3 +7,5 @@ plot(x, y)
 summary(x)
 :wq
 gert::git_branch_checkout(branch = 'master')
+
+median(x)
